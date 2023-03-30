@@ -7,7 +7,6 @@ DIGAPP offers a new alternative to reduce the time spent looking for a good plac
 
 It is an application to find places to work (coworking), it informs if the places are full, if they have internet, if the place is purely intended for coworking or are cafes, and the quality of each establishment is defined by users by registering their experience in the place. It is based on user reports, which provide feedback on the experience, quality and availability of each site.
 
-Translated with www.DeepL.com/Translator (free version)
 
 **Spanish**
 
